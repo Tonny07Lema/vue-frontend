@@ -25,7 +25,7 @@
 import EmployeeService from '../services/EmployeeService'
 
     export default {
-        name: 'Employees' ,
+        name: 'Employees ' ,
         data() {
             return {
                 employees : [] 

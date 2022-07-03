@@ -6,23 +6,20 @@
 
 </template>
 
+
 <script>
-import Employee from './components/Employee.vue'
 import Nota from './components/Nota.vue'
 
 export default {
-  name: 'App',
+  name: 'AppN',
   components: {
-    Employee,
     Nota
   }
 }
-
 </script>
 
-
 <style>
-#app {
+#appN {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
